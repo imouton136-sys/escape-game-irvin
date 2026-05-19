@@ -1,5 +1,5 @@
 /*import des Typographies*/
-
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap'); 
 @font-face {
   font-family: 'Outfit';
   src: url('./assets/Outfit/Outfit-VariableFont_wght.ttf');
@@ -909,4 +909,10 @@ section{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+.creepster{
+  font-family: "creepster", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
