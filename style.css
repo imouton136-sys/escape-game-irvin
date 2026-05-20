@@ -864,6 +864,8 @@ section{
 }
 .background{
   background-color: black;
+  border-radius: 10px;
+  padding: 5px 10px;
 }
 .w-15{
   width: 5%;
@@ -905,7 +907,8 @@ section{
   color: black;
 }
 .background-image2{
-  background-image: url(https://images.pexels.com/photos/9498496/pexels-photo-9498496.jpeg);
+  background-color: black;
+  background-image: url(escape-game/rectangle\ lumiere.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -915,4 +918,7 @@ section{
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+.gap15{
+  gap: 15px;
 }
